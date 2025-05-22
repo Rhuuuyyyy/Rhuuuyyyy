@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rhyan.hdr@gmail.com**
 
-- ⚡ Fun fact **🧬 Bioinformatics enthusiast & lifelong learner  **
+- ⚡ Fun fact **🧬 Bioinformatics enthusiast & lifelong learner**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
