@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rhyan Rocha</h1>
 <h3 align="center">A developer from Brasil</h3>
 
-- 🌱 I’m currently learning **JS, Python, SQL and Bioinformatics**
+- 🌱 I’m currently learning **JS, Python, SQL**
 
 - 📫 How to reach me **rhyan.hdr@gmail.com**
 
-- ⚡ Fun fact **🧬 Bioinformatics enthusiast & lifelong learner**
+- ⚡ Fun fact **Philosophy enthusiast**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
